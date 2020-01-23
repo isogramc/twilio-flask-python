@@ -5,3 +5,5 @@
 - recommends using ngrok
 - pip install twilio flask requests
 - any third party API
+- ./ngrok http 5000
+- FLASK_APP=bot.py flask run
